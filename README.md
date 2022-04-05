@@ -1,5 +1,3 @@
 # rebase
 
-## feature/a
-
-## feature/a - 2
+## feature/b
